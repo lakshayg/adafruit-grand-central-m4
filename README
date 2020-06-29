@@ -1,0 +1,5 @@
+Dependencies
+------------
+
+SdFat: https://github.com/adafruit/SdFat
+Adafruit_SPIFlash: https://github.com/adafruit/Adafruit_SPIFlash
